@@ -1,0 +1,31 @@
+<div class="container" >
+      <div class="row text-center">
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <img class="card-img-top" src="../Images/Players/Sek.png" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Want to know more about us?&nbsp;</h5>
+              <p class="card-text">Go to our about us!&nbsp;&nbsp;</p>
+</div>
+          </div>
+        </div>
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <img class="card-img-top" src="../Images/Players/Jordan1.png" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">You love Fortnite?</h5>
+              <p class="card-text">So do we! Here at the SkySport Breakers Junior Breakers program, we fully condone doing your favourite dance for the totally epic game Fortnite!</p>
+</div>
+          </div>
+        </div>
+        <div class="col-md-4 pb-1 pb-md-0">
+          <div class="card">
+            <img class="card-img-top" src="../Images/Players/AsianDudeIDontKnowTheNameOf.png" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Want to know about our upcoming games?</h5>
+              <p class="card-text">Check out our events page!&nbsp;&nbsp;</p>
+</div>
+          </div>
+        </div>
+      </div>
+</div>
